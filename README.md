@@ -7,3 +7,4 @@ The training set has 24720 examples of Class 0 and 7841 examples of Class 1 (325
 
 Solution:
 The K nearest neighbor algorithm is used for performing classification.To classify the credit, the similarities from train data to test data are calculated and k nearest neighbors are obtained. From k nearest neighbors, the labels to identify the creditworthiness of a customer can be obtained.
+Refer to the report for further details.
